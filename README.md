@@ -1,2 +1,2 @@
-# msc_thesis
-MSc in Applied Mathematics Thesis
+# MSc in Applied Mathematics thesis
+This thesis is about optimal control of Markov Decision Processes and solving risk-sensitive cost minimization and reward maximization problems, specifically, the Linear Quadratic Regulator (LQR) problem with Average-Value-at-Risk criteria. The problem is solved for different risk levels, different random noises (theoretical and sampled), and using different methods: analytical and approximate dynamic programming. The obtained results were analyzed and discussed for the presence of certain patterns and trends. The results show that approximate dynamic programming is a very accurate method for solving risk-sensitive LQR problems with exponential noise.
